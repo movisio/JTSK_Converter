@@ -1,5 +1,5 @@
 {
-    "name": "movisio/JTSK-converter",
+    "name": "movisio/jtsk-converter",
     "description": "Converter between JTS-K and WGS84 coordinates",
     "type": "library",
     "keywords": ["JTS-K", "WGS84", "converter"],
