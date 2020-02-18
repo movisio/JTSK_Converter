@@ -1,0 +1,26 @@
+{
+    "name": "movisio/JTSK-converter",
+    "description": "Converter between JTS-K and WGS84 coordinates",
+    "type": "library",
+    "keywords": ["JTS-K", "WGS84", "converter"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josef Zamrzla",
+        },
+        {
+            "name": "Movisio.com",
+            "email": "programatori@movisio.com",
+            "homepage": "https://www.movisio.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "JTSK\\": "src/"
+        }
+    }
+}
