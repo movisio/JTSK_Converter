@@ -19,8 +19,6 @@
         "php": ">=5.4.0"
     },
     "autoload": {
-        "psr-4": {
-            "JTSK\\": "src/"
-        }
+        "files": ["src/JTSK/Converter.php"]
     }
 }
